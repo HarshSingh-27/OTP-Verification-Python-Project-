@@ -19,3 +19,7 @@ Implement a function to verify if the entered OTP matches the generated OTP.
 Ensure proper error handling and user-friendly prompts throughout the system.
 
 Allow the user to retry OTP entry in case of incorrect input.
+
+
+![Screenshot 2024-08-29 123223](https://github.com/user-attachments/assets/7faf8f59-216f-486a-bda9-cfdc2e9e428b)
+![Screenshot 2024-08-29 123306](https://github.com/user-attachments/assets/fe56397f-c501-41d1-9270-4ace8206874d)
